@@ -1,1 +1,5 @@
+May 27, 2021
 This will be my first project on The Odin Project. This first project will be the google-homepage. The objective of this project is to create a lookalike of the google search homepage. Currently, I've learned some commands on the terminal and have been playing around with it to familarize myslef with how git commands work! So far, I am having fun learning these things and I hope I can commit at least an hour each day to learning coding with the Odin Project.
+
+May 30, 2021
+Completed a google homepage lookalike. I had fun playing around with the design of the google homepage. The thing I struggled most with is the layout and using flexboxes but I found this project fun and challenging. I have left some things undone because I just can't figure it out and I am satisfied with my results! 
